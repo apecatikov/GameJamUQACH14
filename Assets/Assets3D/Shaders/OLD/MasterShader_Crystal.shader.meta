@@ -1,0 +1,7 @@
+fileFormatVersion: 2
+guid: 5a54fba6473b8084a944038a27a250f1
+ShaderImporter:
+  defaultTextures:
+  - _NormalSLOT: {fileID: 2800000, guid: 4f68bf4fff159644ab518c80d20bfc8e, type: 3}
+  - _NoiseSLOT: {fileID: 2800000, guid: 0c1cbc2f5452c0745bff6ea820c7c084, type: 3}
+  userData: 

@@ -1,0 +1,47 @@
+<?xml version= "1.0"?>
+<Objets>
+	<name>GateauChocolat</name>
+	<name>NmNs</name>
+	<name>SuperExpensive</name>
+	<name>Cup_Ceramic</name>
+	<name>Cup_Plastic</name>
+	<name>Cup_Crystal</name>
+	<name>Fork_Metal</name>
+	<name>Fork_Wood</name>
+	<name>Fork_Diamond</name>
+	<name>Knife_Metal</name>
+	<name>Knife_Wood</name>
+	<name>Knife_Diamond</name>
+	<name>Spoon_Metal</name>
+	<name>Spoon_Wood</name>
+	<name>Spoon_Diamond</name>
+	<name>Plate_Ceramic</name>
+	<name>Plate_Plastic</name>
+	<name>Plate_Crystal</name>
+	<name>Biere</name>
+	<name>Moonshine</name>
+	<name>Champagne</name>
+	<name>JusFruit</name>
+	<name>KoolAid</name>
+	<name>EauMinerale</name>
+	<name>SteakHache</name>
+	<name>CroqDisnosaures</name>
+	<name>AngusAAA</name>
+	<name>Spagetti</name>
+	<name>CroqueMonsieur</name>
+	<name>ConfitCanard</name>
+	<name>MacedoineLegumes</name>
+	<name>CeleriCheezWhiz</name>
+	<name>SauteTruffe</name>
+	<name>SM_Flowers</name>
+	<name>SM_Bibelot</name>
+	<name>SM_Chandelier</name>
+	<name>Snd_Child</name>
+	<name>Snd_Elevator</name>
+	<name>Snd_HumanSounds</name>
+	<name>Snd_Whales</name>
+	<name>Snd_Dubstep</name>
+	<name>Snd_JPop</name>
+	<name>Snd_Metal</name>
+	<name>Snd_Classical</name>
+</Objets>

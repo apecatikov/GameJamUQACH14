@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: c0202c254d4da1c4199ba909f822d178
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - musique: {instanceID: 0}
+  - Effects: {instanceID: 0}
+  - child: {fileID: 8300000, guid: d4269488b5c641445b49be48a5eb367f, type: 3}
+  - elevator: {fileID: 8300000, guid: 81facae95e3f9ed49af33afb4cffb34f, type: 3}
+  - humanSounds: {fileID: 8300000, guid: a0170c5be1fe94848b668e0540e09f79, type: 3}
+  - whales: {fileID: 8300000, guid: 21436727ca9d1714a9590b32c26d5103, type: 3}
+  - dubstep: {fileID: 8300000, guid: 6d9706a406cb5f34281a02eebab6e30a, type: 3}
+  - jpop: {fileID: 8300000, guid: 324c090c206c99144bf87ff2d825e97f, type: 3}
+  - metal: {fileID: 8300000, guid: 5aef2bdb7fc713847824ddbb18389768, type: 3}
+  - classical: {fileID: 8300000, guid: 71080779da76c464f8ed714c9ab470ff, type: 3}
+  - bebeBonbon: {fileID: 8300000, guid: 43ef99fc9d8d05e489625b77465b503e, type: 3}
+  - beauty: {fileID: 8300000, guid: 32789ff582770764588ae51bd1c3d91c, type: 3}
+  - booger: {fileID: 8300000, guid: 56e9c1783936a994f9b8b25ba8c9cfc2, type: 3}
+  - breakfast: {fileID: 8300000, guid: 742c1b043dffeb14484220df8719c163, type: 3}
+  - date: {fileID: 8300000, guid: 64caec4dae661d341a451ae41e49f58c, type: 3}
+  - firstSight: {fileID: 8300000, guid: e91982cf9e863ae4ab52b2e5916c3bcd, type: 3}
+  - goodBody: {fileID: 8300000, guid: b31694ca4a1953d43afb606c102354e5, type: 3}
+  - mcGorgeous: {fileID: 8300000, guid: 168b0afa9b8f14b4da80c84910cecaa2, type: 3}
+  - menu: {fileID: 8300000, guid: f95f97e8a3b56d1468cff169bf1d7c63, type: 3}
+  - rainbow: {fileID: 8300000, guid: e3058493a682bc1488f243ac07707dec, type: 3}
+  - romanticTheme: {fileID: 8300000, guid: 822a1eb95571e2546910969cf1436428, type: 3}
+  - Awesome: {fileID: 8300000, guid: 337a47d583fe9be419deb90b763e5d9f, type: 3}
+  - Perfect: {fileID: 8300000, guid: 920e0cfd668afd34ca5ea3a04cfbf736, type: 3}
+  - Impressive: {fileID: 8300000, guid: 7a864a4d54c8f634988af34c54c404a7, type: 3}
+  - Nice: {fileID: 8300000, guid: bbab82990e6f3e848818985a790f5c96, type: 3}
+  - Weak: {fileID: 8300000, guid: 75d14afcecf903943a11e05b61bf773b, type: 3}
+  - Meh: {fileID: 8300000, guid: 8a2d6b9b21585aa4cb9b9ae06ed4c2be, type: 3}
+  - Pick: {fileID: 8300000, guid: 14e432c6d5044d543ae588dc3fe20643, type: 3}
+  - Drop: {fileID: 8300000, guid: c1f240bbbb0fbf94f9c37d5d41e74f40, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
